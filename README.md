@@ -1,5 +1,7 @@
 # sample_filter DA App - Deployment Guide
 
+> **🤖 GitHub Copilot Users:** This repo includes custom agents and skills to streamline Zebra RFID development! See [COPILOT_CUSTOMIZATIONS.md](COPILOT_CUSTOMIZATIONS.md) for setup and usage.
+
 > **⚡ Quick Build:** See [Quick Build Commands](#quick-build-commands) section below for the working build command.
 
 ## 📦 Package Information

@@ -1,0 +1,8 @@
+Package: sample-filter
+Version: 1.0.0
+Source: base
+Priority: optional
+Architecture: all
+Maintainer: Zebra
+Description: RFID tag filter DA app - filters tags by prefix "43" and cycles LED colors
+APP_TYPE: DA

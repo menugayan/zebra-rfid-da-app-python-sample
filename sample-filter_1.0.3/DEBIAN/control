@@ -1,0 +1,8 @@
+Package: sample-filter
+Version: 1.0.3
+Source: base
+Priority: optional
+Architecture: all
+Maintainer: Zebra
+Description: Sample RFID tag filter DA app - filters tags by prefix (fixed permissions)
+APP_TYPE: DA

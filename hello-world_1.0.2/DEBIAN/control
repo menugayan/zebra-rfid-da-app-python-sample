@@ -1,0 +1,7 @@
+Package: hello-world
+Version: 1.0.2
+Source: base
+Priority: optional
+Architecture: all
+Maintainer: Zebra
+Description: Simple Hello World non-DA application for testing and monitoring

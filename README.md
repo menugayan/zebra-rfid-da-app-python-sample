@@ -512,7 +512,6 @@ This repository contains:
 - [README.md](README.md) - This complete guide (DA + Non-DA apps)
 - [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md) - Detailed build steps
 - [COPILOT_CUSTOMIZATIONS.md](COPILOT_CUSTOMIZATIONS.md) - AI development tools
-- [LINKEDIN_POST.md](LINKEDIN_POST.md) - Social media announcement templates
 
 ### Development Tools
 
